@@ -18,6 +18,12 @@ My stack :
 
 <p align="center">
 <a href="https://github.com/Mattcrmx">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattcrmx&hide=jupyter%20notebook&layout=compact" width="380" alt="Mattcrmx" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Mattcrmx">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattcrmx&custom_title=My%20Personal%20GitHub%20Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compac" width="380" alt="Mattcrmx" />  
 </a>
 <a href="https://github.com/matthiasmindee">
