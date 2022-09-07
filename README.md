@@ -16,4 +16,11 @@ My stack :
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 [![C](https://i.imgur.com/zINUxVf.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-[![Matthias's github stats](https://github-readme-stats.vercel.app/api?username=Mattcrmx&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Mattcrmx)
+<p align="center">
+<a href="https://github.com/Mattcrmx">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattcrmx&custom_title=My%20Personal%20GitHub%20Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compac" width="380" alt="Mattcrmx" />  
+</a>
+<a href="https://github.com/matthiasmindee">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthiasmindee&custom_title=My%20Work%20GitHub%20Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compact" width="380" alt="matthiasmindee" />  
+</a>
+</p>
