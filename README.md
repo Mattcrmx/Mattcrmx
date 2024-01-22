@@ -2,11 +2,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/Mattcrmx?label=Follow&style=social)](https://github.com/Mattcrmx)
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthias-cremieux-4b1222153/)
 
-I'm currently working at Mindee as a ML Engineer. I am passionate about Unix, its core components, and I am currently learning Infosec. I am also 
-into Haskell at the moment (while trying to go mouseless with vim).
-
+I'm currently working at Mindee as a Software Engineer. I love Infosec, learning new programming languages, but more than everything I love to tinker with tools I find. I am currently learning Rust
 My stack :
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
