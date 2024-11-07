@@ -1,7 +1,3 @@
-<h1 align="center">Matthias CREMIEUX</h1>
-<h3 align="center">French Software Engineer </h3>
-<img align="left" src="https://i.ibb.co/6nMNqXv/image.png" width="20%" height="20%">
-
 ### Hi there 👋
 [![GitHub followers](https://img.shields.io/github/followers/Mattcrmx?label=Follow&style=social)](https://github.com/Mattcrmx)
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthias-cremieux-4b1222153/)
