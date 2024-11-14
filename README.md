@@ -2,15 +2,17 @@
 [![GitHub followers](https://img.shields.io/github/followers/Mattcrmx?label=Follow&style=social)](https://github.com/Mattcrmx)
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthias-cremieux-4b1222153/)
 
-I'm currently working at [Mindee](https://www.mindee.com/) as a Software Engineer, with a focus on performance and speed for deep learning models in production. I'm passionate about learning, especially new languages, software security and new technologies. I'd love to say I'm good at RE but unfortunately x86 is still far from my mother tongue (all hail [ghidra](https://github.com/NationalSecurityAgency/ghidra) though). I also love Cats, the French "Nouvelle Vague" and 70s electronic music.
+I used to be a Software Engineer, with a focus on performance and memory usage for deep learning models in production. Now, I'm passionate about low-level programming (yes I **love** C), infosec and open source. I also love Cats, the French "Nouvelle Vague" and 70s electronic music.
 
 ### My work 🛀
-Although most of my work is done under my professional account [matthiasmindee](https://github.com/matthiasmindee), my pet projects are on this account.
+Although most of my work used to be done under my professional account [matthiasmindee](https://github.com/matthiasmindee), while my current projects are on this account.
 
-- I'm currently learning and using Rust with [brother](https://github.com/Mattcrmx/brother), a toy browser written in pure Rust.
-- I'm definitely using C with [fd-watcher](https://github.com/Mattcrmx/fd-watcher), a very simple watchdog for file descriptor leaks in C. I'm actually currently re-writing it in Rust, and will probably make a python lib out of it with the Rust bindings.
-- I'm working on [tawazi](https://github.com/mindee/tawazi), a DAG scheduler library written in pure python also acting as a framework for building applications leveraging directed acyclic graphs.
-
+- I'm writing my own kernel in C from scratch mainly with the help of [os-dev](https://wiki.osdev.org/Expanded_Main_Page), which I hope to showcase soon enough.
+- While doing so, I wrote a tool to auto-generate C headers [cprotogen](https://github.com/Mattcrmx/cprotogen).
+- I actually wrote one for Cython as well [cyheadgen](https://github.com/Mattcrmx/cyheadgen).
+- I wrote a tool detecting file descriptor leaks in C with Python bindings for use as a library [fd-watcher](https://github.com/Mattcrmx/fd-watcher).
+- I'm a maintainer of [tawazi](https://github.com/mindee/tawazi), a DAG scheduler library written in pure python also acting as a framework for building applications leveraging directed acyclic graphs.
+- I learned a bit of Rust with [brother](https://github.com/Mattcrmx/brother), a toy html renderer written in Rust, and a bit of Haskell with another project.
 
 <p align="center">
 <a href="https://github.com/Mattcrmx">
